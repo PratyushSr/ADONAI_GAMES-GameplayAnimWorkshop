@@ -72,3 +72,17 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+*.log
+Adonai_Project/Saved/Config/CrashReportClient/UE4CC-Windows-DB0E860244F674688F153890FFF81927/CrashReportClient.ini
+Adonai_Project/Intermediate/CachedAssetRegistry.bin
+Adonai_Project/Intermediate/CachedAssetRegistry.bin
+Adonai_Project/Saved/AutoScreenshot.png
+Adonai_Project/Saved/Config/Windows/EditorPerProjectUserSettings.ini
+Adonai_Project/Saved/Config/Windows/Engine.ini
+Adonai_Project/Saved/Logs/Adonai_Project.log
+*.bin
+*.png
+*.ini
+*.log
+*.ini
+*.log
