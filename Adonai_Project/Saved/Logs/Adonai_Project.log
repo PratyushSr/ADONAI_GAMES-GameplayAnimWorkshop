@@ -550,6 +550,7 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.08-03.03.59:962][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Hector/AppData/Local/Temp/UnrealShaderWorkingDir/3E1535684AC4A7F2687ABC9FB38564B8/'.
 [2022.04.08-03.03.59:962][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
 [2022.04.08-03.03.59:962][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+<<<<<<< Updated upstream
 [2022.04.08-03.04.02:734][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
 [2022.04.08-03.04.02:835][  0]LogDerivedDataCache: Loaded boot cache 0.10s 77MB C:/Users/Hector/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
 [2022.04.08-03.04.02:835][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Hector/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
@@ -801,3 +802,5 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2022.04.08-03.04.11:717][  2]LogSlate: Took 0.004590 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.04.08-03.04.12:371][  4]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2022.04.08-03.04.14:560][ 11]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+=======
+>>>>>>> Stashed changes
